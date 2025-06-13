@@ -1,5 +1,6 @@
 {
     "name": "naves espasiales voludo",
+    "version": "0.0.1",
     "description": "",
     "dependencies": {
         "device": "*",
